@@ -1,2 +1,5 @@
-# daily-digest
-每日AI新闻和OpenClaw Skills精选
+# Daily Digest Index
+
+> 所有日报归档
+
+- [2026-02-23](digest/2026-02-23.md)
